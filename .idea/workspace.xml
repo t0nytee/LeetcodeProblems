@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df66f91d-2fa2-4712-9798-6702d0fd2ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UncommonWordsfromTwoSentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LargestNumber.executor": "Run",
     "Application.LongestSubarrayWithMaximumBitwiseAND.executor": "Run",
     "Application.MinimumTimeDifference.executor": "Run",
     "Application.UncommonWordsfromTwoSentences.executor": "Run",
@@ -55,7 +57,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UncommonWordsfromTwoSentences">
+  <component name="RunManager" selected="Application.LargestNumber">
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.LargestNumber" />
+      <module name="LeetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestSubarrayWithMaximumBitwiseAND" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.LongestSubarrayWithMaximumBitwiseAND" />
       <module name="LeetcodeProblems" />
@@ -97,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestNumber" />
         <item itemvalue="Application.UncommonWordsfromTwoSentences" />
         <item itemvalue="Application.MinimumTimeDifference" />
         <item itemvalue="Application.LongestSubarrayWithMaximumBitwiseAND" />
@@ -119,7 +135,8 @@
       <option name="presentableId" value="Default" />
       <updated>1726334931891</updated>
       <workItem from="1726334932924" duration="705000" />
-      <workItem from="1726483927756" duration="1089000" />
+      <workItem from="1726483927756" duration="1336000" />
+      <workItem from="1726635065399" duration="1424000" />
     </task>
     <servers />
   </component>
