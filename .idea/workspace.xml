@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df66f91d-2fa2-4712-9798-6702d0fd2ca0" name="Changes" comment="" />
+    <list default="true" id="df66f91d-2fa2-4712-9798-6702d0fd2ca0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/KthSmallestinLexicographicalOrder.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,29 +34,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LargestNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestSubarrayWithMaximumBitwiseAND.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumTimeDifference.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UncommonWordsfromTwoSentences.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.KthSmallestinLexicographicalOrder.executor": "Run",
+    "Application.LargestNumber.executor": "Run",
+    "Application.LexicographicalNumbers.executor": "Run",
+    "Application.LongestSubarrayWithMaximumBitwiseAND.executor": "Run",
+    "Application.MinimumTimeDifference.executor": "Run",
+    "Application.UncommonWordsfromTwoSentences.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.LexicographicalNumbers">
+}]]></component>
+  <component name="RunManager" selected="Application.KthSmallestinLexicographicalOrder">
+    <configuration name="KthSmallestinLexicographicalOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.KthSmallestinLexicographicalOrder" />
+      <module name="LeetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.LargestNumber" />
       <module name="LeetcodeProblems" />
@@ -70,19 +87,6 @@
     </configuration>
     <configuration name="LexicographicalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.LexicographicalNumbers" />
-      <module name="LeetcodeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestSubarrayWithMaximumBitwiseAND" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.LongestSubarrayWithMaximumBitwiseAND" />
       <module name="LeetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthSmallestinLexicographicalOrder" />
         <item itemvalue="Application.LexicographicalNumbers" />
         <item itemvalue="Application.LargestNumber" />
         <item itemvalue="Application.UncommonWordsfromTwoSentences" />
         <item itemvalue="Application.MinimumTimeDifference" />
-        <item itemvalue="Application.LongestSubarrayWithMaximumBitwiseAND" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +152,7 @@
       <workItem from="1726334932924" duration="705000" />
       <workItem from="1726483927756" duration="1336000" />
       <workItem from="1726635065399" duration="1739000" />
+      <workItem from="1726898272545" duration="547000" />
     </task>
     <servers />
   </component>
