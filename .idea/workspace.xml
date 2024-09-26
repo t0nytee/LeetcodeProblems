@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df66f91d-2fa2-4712-9798-6702d0fd2ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/KthSmallestinLexicographicalOrder.java" afterDir="false" />
-    </list>
+    <list default="true" id="df66f91d-2fa2-4712-9798-6702d0fd2ca0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +150,7 @@
       <workItem from="1726334932924" duration="705000" />
       <workItem from="1726483927756" duration="1336000" />
       <workItem from="1726635065399" duration="1739000" />
-      <workItem from="1726898272545" duration="547000" />
+      <workItem from="1726898272545" duration="661000" />
     </task>
     <servers />
   </component>
